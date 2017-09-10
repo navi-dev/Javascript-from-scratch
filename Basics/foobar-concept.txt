@@ -1,0 +1,49 @@
+Using words like foo bar make you focus on the concept rather then  graps based on the term you know.
+for example
+
+public abstract class Animal
+{
+    public abstract void speak();    
+}
+
+public class Dog : Animal
+{
+    public void speak()
+    {
+        console.log("bark");
+    }
+}
+
+public class Cat : Animal
+{
+    public void speak()
+    {
+        console.log("meaun");
+    }    
+}
+
+in above example you were not focus on the concepts because your mind knows something about it thats why your focus shifted.
+Now lets try to understand following
+
+public abstract class foo
+{
+    public abstact void start();    
+}
+
+public class bar : foo
+{
+    public void start()
+    {
+        console.log("bar start");
+    }
+}
+
+public class baz : foo
+{
+    public void start()
+    {
+        console.log("baz start")        
+    } 
+}
+
+this time you must be much focused on concept not on content

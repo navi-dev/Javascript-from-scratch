@@ -1,0 +1,12 @@
+Evaluation a variable
+
+* By default value of var/let variable in undefined
+* If any variable is used without declaration then it throws reference error.
+* undefined behaves like false if used in boolean context
+
+* undefined converts to NAN if used with numberic value i.e.
+    var c;
+    c*2 = NAN
+
+* when you evaluate null it behaves as 0 in numberic context and false in boolean context.
+

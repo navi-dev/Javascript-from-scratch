@@ -1,0 +1,7 @@
+Declaration in javascript
+
+We have three types of Declaration
+* var   : declare a variable(global) and optionally initialize value 
+* let   : declare a scope based, local variable and optionally initialize value
+* const : declare a block-scoped, read only named constant
+
